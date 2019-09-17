@@ -18,8 +18,9 @@ python train.py
 ## Results
 The RvNN model is trained on SST and the accuracy of predicting
 fine-grained sentiment labels at all phrase lengths(All) or
-full sentences(Root) is as follows:
- |       | Acc_All   | Acc_Root     
- |-------- | :-----------:  | :-----------: 
- | Paper [2]   |  79.0   |  43.0   |
- | My Recurrence |  75.71  |  47.96  |
+full sentences(Root) is as follows:<br>
+
+|               |  Acc_All  |  Acc_Root |     
+| :-----------: | :-------: | :-------: |
+|   Paper [2]   |   79.0    |   43.0    |
+| My Recurrence |   75.71   |   47.96   |
