@@ -1,4 +1,4 @@
-# DGL & Pytorch_Recursive Neural Networks_Sentiment Classification
+# DGL_Recursive Neural Networks_Sentiment Classification
 ## Introduction
 This project uses the DGL (Deep Graph Library) package to improve the training speed of Recursive Neural Networks(RvNN), which takes only 4-6 seconds every training epoch on the RTX server.
 * References<br>
@@ -9,9 +9,9 @@ This project uses the DGL (Deep Graph Library) package to improve the training s
 * Dependencies<br>
     * Python >= 3.5<br>
     * PyTorch >= 0.4.1<br>
-    * DLG >= 0.3<br>
+    * DGL >= 0.3<br>
 * DGL(Deep Graph Library)<br>
-    * Document: https://docs.dgl.ai/tutorials/basics/1_first.html
+    * Tutorial: https://docs.dgl.ai/tutorials/basics/1_first.html
     * Github: https://github.com/dmlc/dgl
 ## Usage
 python train.py
