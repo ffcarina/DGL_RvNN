@@ -5,7 +5,7 @@ This project uses the DGL (Deep Graph Library) package to improve the training s
     
     * [1] Socher R, Lin C C, Manning C, et al. Parsing natural scenes and natural language with recursive neural networks[C] . ICML-11. 2011: 129-136. https://ai.stanford.edu/~ang/papers/icml11ParsingWithRecursiveNeuralNetworks.pdf
     * [2] Socher R, Perelygin A, Wu J, et al. Recursive deep models for semantic compositionality over a sentiment treebank[C]. EMNLP. 2013: 1631-1642. https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf 
-    * The Pytorch codes for RvNN by clli from NUSTM. https://github.com/NUSTM/PyTorch_RvNN  
+    * Tree-LSTM DGL Tutorial: https://docs.dgl.ai/tutorials/models/2_small_graph/3_tree-lstm.html?highlight=treelstm
 * Dependencies<br>
     * Python >= 3.5<br>
     * PyTorch >= 0.4.1<br>
